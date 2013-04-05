@@ -1,4 +1,4 @@
 TotalEconomy
 ============
 
-Total Economy
+Total
